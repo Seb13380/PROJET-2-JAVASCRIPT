@@ -22,9 +22,9 @@ let questions = [
         answer: ["1", "La première place du classement est occupée par la Suède avec 267 570 îles, suivie par la Norvège. Il faut savoir que la majeure partie est inhabitée."]
     },
     {
-        question: "De quelle ville Billie Eilish est-elle originaire?",
-        options: ["1. Dublin", "2. Los Angeles", "3. Londres", "4. Tokyo"],
-        answer: ["2", "Elle est née le 18 décembre 2001 (Âge: 23 ans), à Los Angeles, Californie, États-Unis"]
+        question: "Sur quelle partie du corps l'Homme a le plus de bactéries?",
+        options: ["1. Les aisselles", "2. Les parties génitales", "3. Le nombril", "4. les oreilles"],
+        answer: ["3", "Peu importe le temps que vous passez sous la douche, vous ne pourrez pas nettoyer complètement le nombril. Il abrite plus de 2 000 variétés de bactéries et, étant donné sa nature cachée et chaude (par rapport au reste de la température du corps), elles sont idéales pour la croissance bactérienne "]
     }
 ];
 
